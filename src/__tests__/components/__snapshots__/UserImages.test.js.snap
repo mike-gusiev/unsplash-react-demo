@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UserImages component matches the snapshot 1`] = `
+<div>
+  <div
+    className="row"
+  >
+    <div
+      className="col-md-4 col-xs-6"
+    >
+      <img
+        className="user-image img-rounded"
+        src="url"
+      />
+    </div>
+    <div
+      className="col-md-4 col-xs-6"
+    >
+      <img
+        className="user-image img-rounded"
+        src="secondUrl"
+      />
+    </div>
+  </div>
+</div>
+`;

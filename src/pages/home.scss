@@ -1,0 +1,16 @@
+.content {
+  padding: 20px 0;
+
+  .async-typeahead {
+    padding-bottom: 20px;
+  }
+
+  .not-found-message {
+    display: flex;
+    align-items: center;
+    min-height: 600px;
+    text-align: center;
+    vertical-align: center;
+    font-size: 40px;
+  }
+}
